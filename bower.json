@@ -8,5 +8,9 @@
     "bower_components",
     "test",
     "tests"
+  ],
+  "main": [
+    "./public/fest.js",
+    "./public/test.js"
   ]
 }
